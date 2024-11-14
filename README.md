@@ -49,7 +49,7 @@ Installation Steps
 
 Clone the Repository
 
-git clone https://github.com/yourusername/object-detection-web-app
+git clone https://github.com/KarishmaABC/object-detection-web-app
 cd object-detection-web-app
 Install Dependencies Make sure you are in a virtual environment, then install the required packages:
 
