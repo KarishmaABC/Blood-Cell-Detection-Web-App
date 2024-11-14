@@ -1,0 +1,6 @@
+streamlit
+torch
+ultralytics                   # For YOLOv8 if it's not already installed
+opencv-python
+Pillow
+

@@ -1,0 +1,16 @@
+
+
+path: C:/Users/karishma/Desktop/OD/datasets/BCCD_dataset
+train: C:/Users/karishma/Desktop/OD/datasets/BCCD_dataset/train/images
+val: C:/Users/karishma/Desktop/OD/datasets/BCCD_dataset/valid/images
+test: C:/Users/karishma/Desktop/OD/datasets/BCCD_dataset/test/images/images
+
+nc: 3
+names: ['Platelets', 'RBC', 'WBC']
+
+roboflow:
+  workspace: joseph-nelson
+  project: bccd
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/joseph-nelson/bccd/dataset/3
