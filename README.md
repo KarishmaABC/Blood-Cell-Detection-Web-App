@@ -1,4 +1,4 @@
-# Object_Detection_Web_App
+# Blood Cell Detection Web App
 This project is an interactive web application built using Streamlit to detect blood cells in images. It utilizes a fine-tuned YOLOv8 object detection model, trained on the BCCD (Blood Cell Count and Detection) dataset to recognize and classify different types of blood cells.
 
 Table of Contents
