@@ -44,7 +44,7 @@ Ultralytics YOLOv8 for object detection.
 OpenCV for image processing.
 
 Torch for PyTorch-based model loading and inference.
-
+Hugging Face URL : https://huggingface.co/spaces/Karu1103/Object_Detection_Web_App
 Installation Steps
 
 Clone the Repository
